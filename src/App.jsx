@@ -97,7 +97,7 @@ function App() {
             <img src="/images/avatar.png" alt="Admin" />
             <div className="user-details">
               <span className="user-name">ทิม คุก</span>
-              <span className="user-role">CEO</span>
+              <span className="user-role">Admin</span>
             </div>
             <FaChevronDown size={12} />
           </div>
