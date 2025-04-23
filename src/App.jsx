@@ -28,49 +28,49 @@ function App() {
       name: 'iPhone 15 Pro Max',
       price: '45,900.00',
       stock: 5,
-      image: '/images/lays.png'
+      image: '/images/iphone.png'
     },
     {
       name: 'MacBook Pro M3',
       price: '69,900.00',
       stock: 3,
-      image: '/images/sugar.png'
+      image: '/images/macbook.png'
     },
     {
       name: 'AirPods Pro 2',
       price: '12,900.00',
       stock: 8,
-      image: '/images/spa.png'
+      image: '/images/airpods.png'
     },
     {
       name: 'Apple Watch Series 9',
       price: '15,900.00',
       stock: 4,
-      image: '/images/oil.png'
+      image: '/images/watch.png'
     },
     {
       name: 'iPad Pro M2',
       price: '39,900.00',
       stock: 6,
-      image: '/images/water.png'
+      image: '/images/ipad.png'
     },
     {
       name: 'Apple Pencil 2',
       price: '4,900.00',
       stock: 10,
-      image: '/images/fish.png'
+      image: '/images/pencil.png'
     },
     {
       name: 'Magic Keyboard',
       price: '8,900.00',
       stock: 7,
-      image: '/images/cheetos.png'
+      image: '/images/keyboard.png'
     },
     {
       name: 'AirTag 4 Pack',
       price: '3,900.00',
       stock: 12,
-      image: '/images/bread.png'
+      image: '/images/airtag.png'
     }
   ]
 
